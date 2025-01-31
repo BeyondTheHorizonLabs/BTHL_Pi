@@ -1,6 +1,6 @@
-# SkinwalkerPi
+# BTHL_Pi
 
-SkinwalkerPi is a comprehensive toolkit designed to bootstrap and manage the installation of **SkinwalkerOS** on a variety of devices, including Raspberry Pi, Orange Pi, and mini ITX systems. With a focus on paranormal and scientific field testing, SkinwalkerPi ensures seamless setup for advanced sensor monitoring and data analysis.
+SkinwalkerPi is a comprehensive toolkit designed to bootstrap and manage the installation of **BTHL_OS** on a variety of devices, including Raspberry Pi, Orange Pi, and mini ITX systems. With a focus on paranormal and scientific field testing, SkinwalkerPi ensures seamless setup for advanced sensor monitoring and data analysis.
 
 ---
 
@@ -8,7 +8,7 @@ SkinwalkerPi is a comprehensive toolkit designed to bootstrap and manage the ins
 
 - Supports ARM and x64 architectures.
 - Compatible with Raspberry Pi, Orange Pi, and mini ITX systems.
-- Automates the installation of **SkinwalkerOS**, a Linux OS fork.
+- Automates the installation of **BTHL_OS**, a Linux OS fork.
 - Includes configuration tools for sensor monitoring devices, drones, and SDR-based applications.
 - Provides a modular design for adding new device support and configurations.
 
@@ -40,7 +40,7 @@ SkinwalkerPi is a comprehensive toolkit designed to bootstrap and manage the ins
 
    This script will:
    - Format and prepare your USB/SD card.
-   - Download the latest **SkinwalkerOS** image.
+   - Download the latest **BTHL_OS** image.
    - Install the OS and required dependencies.
 
 3. Follow the on-screen prompts to configure your device.
@@ -49,9 +49,9 @@ SkinwalkerPi is a comprehensive toolkit designed to bootstrap and manage the ins
 
 ## Usage
 
-### Bootstrapping SkinwalkerOS
+### Bootstrapping SBTHL_OS
 
-After running the bootstrap script, your device will boot into **SkinwalkerOS**, ready for further configuration and use with:
+After running the bootstrap script, your device will boot into **BTHL_OS**, ready for further configuration and use with:
 
 - Environmental sensors
 - GPS and SDR tools
@@ -70,11 +70,11 @@ This will ensure you have the latest features and bug fixes.
 
 ---
 
-## Relation to SkinwalkerOS
+## Relation to BTHL_OS
 
-SkinwalkerPi is the primary tool for bootstrapping and configuring **SkinwalkerOS**. While SkinwalkerOS provides the core operating system, SkinwalkerPi simplifies the installation process and ensures compatibility with supported devices.
+SkinwalkerPi is the primary tool for bootstrapping and configuring **BTHL_OS**. While SkinwalkerOS provides the core operating system, SkinwalkerPi simplifies the installation process and ensures compatibility with supported devices.
 
-For more information about **SkinwalkerOS**, visit the [SkinwalkerOS repository](https://github.com/BeyondTheHorizonLabs/SkinwalkerOS).
+For more information about **BTHL_OS**, visit the [BTHL_OS repository](https://github.com/BeyondTheHorizonLabs/BTHL_OS).
 
 ---
 
